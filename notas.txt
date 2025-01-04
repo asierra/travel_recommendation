@@ -1,0 +1,12 @@
+Decidi hacerlo sobre turismo basado en la naturaleza porque es un tema que me interesa. Aqui pongo unas pocas referencias:
+
+https://reservety.com/how-to-benefit-from-growing-nature-based-tourism/
+
+y referencias sobre organización de páginas web con flexbox:
+
+https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/
+https://www.w3schools.com/css/css3_flexbox_container.asp
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.youtube.com/watch?v=aRMIdKRYg6c
+https://www.youtube.com/watch?v=RhLxQx4P1oI
+
