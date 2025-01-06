@@ -1,6 +1,18 @@
 const searchButton = document.getElementById("btnSearch");
 const clearButton = document.getElementById("btnClear");
 
+function loadPartial(url) {
+  content = fetch(url).then(function (response) {
+      return response.text();
+    }).then(function(htmlpartial) {
+      const container = document.getElementById("main");
+      container.innerHTML = htmlpartial;
+    })
+    .catch(error=> {
+      console.error('An error:', error);
+    });
+}
+
 function findDestination(keyword) {
     const foundEmployee = employees.find(employee => employee.id === employeeId);
     if (foundEmployee) {
