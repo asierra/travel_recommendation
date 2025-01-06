@@ -34,8 +34,6 @@ header h1 {
 }
 
 nav {
-  /*width: 50%;
-  max-width: 300px;*/
   height: 80px;
 }
 
@@ -69,6 +67,7 @@ nav > ul > li > a {
 
 /* Container for flexboxes */
 section {
+  color: #ffffff;
   display: -webkit-flex;
   display: flex;
 }
